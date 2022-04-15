@@ -1,0 +1,5 @@
+-Name: Rajeshwari Jadhav
+-RollNo: 210122045
+-Branch: Chemical Science and Technology
+-Hobbies: Music,Sketching
+-Languages I am good at: C++,Java
